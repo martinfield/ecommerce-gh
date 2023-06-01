@@ -1,0 +1,22 @@
+{
+  "name": "e-commerce",
+  "version": "1.0.0",
+  "description": "An E-Commerce App created using Node.js, Express.js and PostgreSQL.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/martinfield/ecommerce-gh.git"
+  },
+  "author": "Martin Field",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/martinfield/ecommerce-gh/issues"
+  },
+  "homepage": "https://github.com/martinfield/ecommerce-gh#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
